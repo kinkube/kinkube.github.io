@@ -1,1 +1,1 @@
-[点击前往博客](kinroad.github.io)
+[点击前往博客](https://kinroad.github.io)
