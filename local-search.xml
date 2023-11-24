@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>测试标签</title>
+    <link href="/2023/11/24/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/"/>
+    <url>/2023/11/24/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>k8s</tag>
+      
+      <tag>docker</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/11/23/hello-world/"/>
     <url>/2023/11/23/hello-world/</url>
